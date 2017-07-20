@@ -50,7 +50,7 @@ There are four out-of-box configurations that create its scalable and configurab
 - Full SAFe
 
 Essential SAFe
-![Essential SAFe](.resources/EssentialSAFe.png) 
+![Essential SAFe](./resources/EssentialSAFe.png) 
 
 Large Solution SAFe
 ![Large Solution SAFe](./resources/LargeSolutionSAFe.png)
@@ -59,7 +59,7 @@ Portfolio SAFe
 ![Portfolio SAFe](./resources/PortfolioSAFe.png) 
 
 Full SAFe
-![Full SAFe](.resources/FullSAfe.png)
+![Full SAFe](./resources/FullSAfe.png)
 
 For more information on the configurations, you can read that [here](http://www.scaledagileframework.com/what-is-safe/)
 
