@@ -42,7 +42,7 @@ There are 4 configurations of SAFe
 
 There are four out-of-box configurations that create its scalable and configurable approach.
 
-![SAFe Configuration](./resources/Configurable20%SAFe.png)
+![SAFe Configuration](./resources/Configurable SAFe.png)
 
 - Essential SAFe 
 - Large Solution SAFe
