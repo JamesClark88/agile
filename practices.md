@@ -32,13 +32,13 @@ There are plenty of [articles and reviews](http://ronjeffries.com/xprog/articles
 
 ## BML (Build Measure Learn) and MVP (Minimum Viable Product)
 
-Build Measure Learn and Minimum Viable Product are both practices from Eric Ries book [Lean Startup](http://theleanstartup.com/) you can find a copy of this in the kitchen or visit [Blinkist](https://www.blinkist.com) to listen to a 15 minute audio version. You can find login details [here](https://sites.google.com/a/simplybusiness.co.uk/site/knowledge-and-community/level-up-passwords)
+Build Measure Learn and Minimum Viable Product are both practices from Eric Ries book [Lean Startup](http://theleanstartup.com/) you can find a copy of this in the kitchen or visit [Blinkist](https://www.blinkist.com) to listen to a 15 minute audio version. You can find login details
 
 The Lean Startup follows the Lean Methodologies principles and practices.
 
 ### BML (Build Measure Learn)
 
-You can find a diagram explaining the flow of BML [here](../BML.png). The concept of BML is to ultimately validate whether we should or shouldn't spend time investing money in developing a new product/idea. This can lead to a complete about turn on the product, called a "pivot", or lead to us designing a further test called "persevere" if we are unable to validate assumptions.
+You can find a diagram explaining the flow of BML [here](./resources/BML.png). The concept of BML is to ultimately validate whether we should or shouldn't spend time investing money in developing a new product/idea. This can lead to a complete about turn on the product, called a "pivot", or lead to us designing a further test called "persevere" if we are unable to validate assumptions.
 
 As shown in the above diagram, we do not always have to build something to understand if we should or shouldn't go ahead with a piece of work. Data is a very powerful tool and if you are an established business like Simply Business who have data at its heart, we are able to prove or disprove some hypothesis using data, without the need to build.
 
