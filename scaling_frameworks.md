@@ -42,7 +42,7 @@ There are 4 configurations of SAFe
 
 There are four out-of-box configurations that create its scalable and configurable approach.
 
-![SAFe Configuration](./resources/Configurable SAFe.png)
+![SAFe Configuration](./resources/ConfigurableSAFe.png)
 
 - Essential SAFe 
 - Large Solution SAFe
@@ -50,16 +50,16 @@ There are four out-of-box configurations that create its scalable and configurab
 - Full SAFe
 
 Essential SAFe
-![Essential SAFe](.resources/Essential20%SAFe.png) 
+![Essential SAFe](.resources/EssentialSAFe.png) 
 
 Large Solution SAFe
-![Large Solution SAFe](./resources/Large20%Solution20%SAFe.png)
+![Large Solution SAFe](./resources/LargeSolutionSAFe.png)
 
 Portfolio SAFe 
-![Portfolio SAFe](./resources/Portfolio20%SAFe.png) 
+![Portfolio SAFe](./resources/PortfolioSAFe.png) 
 
 Full SAFe
-![Full SAFe](.resources/Full20%SAfe.png)
+![Full SAFe](.resources/FullSAfe.png)
 
 For more information on the configurations, you can read that [here](http://www.scaledagileframework.com/what-is-safe/)
 
