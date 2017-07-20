@@ -53,7 +53,7 @@ Essential SAFe
 ![Essential SAFe](.resources/Essential20%SAFe.png) 
 
 Large Solution SAFe
-![Large Solution SAFe](./resources/Large20%Solution SAFe.png)
+![Large Solution SAFe](./resources/Large20%Solution20%SAFe.png)
 
 Portfolio SAFe 
 ![Portfolio SAFe](./resources/Portfolio20%SAFe.png) 
