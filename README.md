@@ -23,6 +23,7 @@ Agile is very simply about "change and adaptability" and moving an organisation 
 This means that agile is really about finding the right things to do and doing them in the right way, or at the very least doing the right things in the wrong way, rather than the wrong things in the right way. This translates to [outcomes over outputs](https://www.extremeuncertainty.com/outcomes-not-outputs/), which you may have heard of before.
 
 ![What is agile](./resources/whatisagile.png)
+Image credit: Adventures with Agile
 
 To take a closer look at the agile onion above, see [here](https://www.adventureswithagile.com/2016/08/10/what-is-agile/) 
 
