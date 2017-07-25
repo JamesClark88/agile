@@ -9,6 +9,7 @@ If you want to learn more about any of the below, please come and speak to one o
 ## Scrum
 
 ![The Scrum Framework visualised](./resources/Scrum.jpg)
+Image credit: csharpcorner
 
 Scrum is a framework primarily used in software development and works best when we work in the complex space. It has and can be used outside of software development, however when surveyed 80% of ScrumMaster's had not applied this framework to other industries.  
 
