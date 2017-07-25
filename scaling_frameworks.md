@@ -35,6 +35,7 @@ SAFe synchronizes alignment, collaboration, and delivery for large numbers of Ag
 An extensive body of knowledge, SAFe describes the roles, responsibilities, artifacts, and activities necessary to implement Lean-Agile development. To illustrate SAFe concepts, this website features an interactive Big Picture graphic, which is a visual overview of the framework and is the primary user interface to the knowledge base. Each icon of the image is clickable, offering access to an article on that topic, as well as links to related information.
 
 ![SAFE](./resources/SAFe.png)
+Image credit: www.scaledagileframework.com
 
 ### SAFe Configurations 
 
@@ -43,6 +44,7 @@ There are 4 configurations of SAFe
 There are four out-of-box configurations that create its scalable and configurable approach.
 
 ![SAFe Configuration](./resources/ConfigurableSAFe.png)
+Image credit: www.scaledagileframework.com
 
 - Essential SAFe 
 - Large Solution SAFe
@@ -51,15 +53,19 @@ There are four out-of-box configurations that create its scalable and configurab
 
 Essential SAFe
 ![Essential SAFe](./resources/EssentialSAFe.png) 
+Image credit: www.scaledagileframework.com
 
 Large Solution SAFe
 ![Large Solution SAFe](./resources/LargeSolutionSAFe.png)
+Image credit: www.scaledagileframework.com
 
 Portfolio SAFe 
-![Portfolio SAFe](./resources/PortfolioSAFe.png) 
+![Portfolio SAFe](./resources/PortfolioSAFe.png)
+Image credit: www.scaledagileframework.com
 
 Full SAFe
 ![Full SAFe](./resources/FullSAfe.png)
+Image credit: www.scaledagileframework.com
 
 For more information on the configurations, you can read that [here](http://www.scaledagileframework.com/what-is-safe/)
 
@@ -70,8 +76,6 @@ There are some intresting views on SAFe from well respected agile consultants/co
 Ron Jefferies - [Why SAFe is good but not good enough](http://xprogramming.com/articles/safe-good-but-not-good-enough/)
 Petter Sadington - [Scaled agile framework a review](https://agilescout.com/scaled-agile-framework-safe-review/)
 David Snowden -[SAFe the infantillism of management] (http://cognitive-edge.com/blog/safe-the-infantilism-of-management/)
-
-## SAFe Key Facts
 
 ## SAFe Key Facts
 
@@ -96,6 +100,7 @@ There are some intresting views on SAFe from well respected agile consultants/co
 Note that simpler doesn’t mean easier, especially in the short run. Even though LeSS is simple, it is exceptionally hard to adopt well in organizations.
 
 ![LeSS](./resources/LeSS.png)
+Image credit: www.less.works
 
 ## Principles of LeSS
 
@@ -120,6 +125,7 @@ LeSS provides two different large-scale Scrum frameworks. Most of the scaling el
 - LeSS Huge: Up to a few thousand people on one product.
 
 ![LeSS Huge](./resources/LesSSHuge.png)
+Image credit: www.less.works
 
 ## What's different in LeSS (compared to Scrum)
 
